@@ -18,8 +18,7 @@ const Subscribe: FunctionComponent = () => {
           <TipsText>
             <H variant="3">Skicka in tips till Osqledaren!</H>
             <P>
-              Det går utmärkt att kontakta oss på osqledaren@ths.kth.se eller 08
-              790 98 88 om du har ett tips rörande något vi skulle kunna skriva
+              Det går utmärkt att kontakta oss på osqledaren@ths.kth.se om du har ett tips rörande något vi skulle kunna skriva
               om i tidningen.
             </P>
             <H variant="4">Insändare</H>

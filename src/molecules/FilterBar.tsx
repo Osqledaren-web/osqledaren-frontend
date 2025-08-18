@@ -123,6 +123,9 @@ const Filterbar: FunctionComponent = () => {
           <a tabIndex={0} href="/archive">
             Arkiv
           </a>
+          <a tabIndex={0} href="/applyOL">
+            Bli en del av OL
+          </a>
         </HamburgerMenu>
       </Hamburger>
     </BarDesktop>

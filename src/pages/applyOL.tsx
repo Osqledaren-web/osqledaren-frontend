@@ -5,7 +5,7 @@ import P from "../atoms/P";
 
 const Apply: FunctionComponent = () => {
   if (typeof window !== `undefined`) {
-    window.location.href = "https://forms.gle/hnN5VNgEK8hZHRzUA";
+    window.location.href = "https://forms.gle/Z3bS1f6prRzhqq4R6";
   }
 
   return (

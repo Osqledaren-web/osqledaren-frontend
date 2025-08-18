@@ -124,7 +124,7 @@ const Filterbar: FunctionComponent = () => {
             Arkiv
           </a>
           <a tabIndex={0} href="/applyOL">
-            Bli en del av OL
+            Gå med i OL
           </a>
         </HamburgerMenu>
       </Hamburger>

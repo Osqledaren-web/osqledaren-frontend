@@ -36,4 +36,3 @@ const RedirectMessageWrapper = styled.div`
     flex-direction: column;
   }
 `;
-`;
